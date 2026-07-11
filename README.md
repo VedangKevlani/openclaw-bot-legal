@@ -1,2 +1,2 @@
-# test-github-pages
+# openclaw-bot-legal
 Discord Bot Terms of Service
